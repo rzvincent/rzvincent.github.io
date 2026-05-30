@@ -20,7 +20,8 @@ I am currently a Research Assistant in SUSTech, advised by [Christina Gao](https
 * **Astrophysics**: High-Energy Transients & Dark Matter.
 * **Cosmology**: Evolution of the Universe.
 
-> **Note:** I previously conducted research on **Fast Radio Bursts (FRBs)** as cosmological and physical probes during my M.S.
+> **Note:** I previously conducted research on **Fast Radio Bursts (FRBs)** as cosmological and physical probes during my M.S. ([Master Thesis](pdf)
+
 
 ---
 
@@ -30,7 +31,7 @@ You can find my publications here:
 * 👉 **[Google Scholar Profile](https://scholar.google.com/citations?user=LuAOF18AAAAJ&hl=en)**
 
 Codes contributed to published papers are avaliable here:
-* 👉 **[@VincentZou](https://github.com/Vincent-R-Zou)**
+* 👉 **[Code](https://github.com/Vincent-R-Zou)**
 
 ---
 
@@ -38,7 +39,7 @@ Codes contributed to published papers are avaliable here:
 
 * **Preferred Name**: Vincent Zou 
 * **Official Name**: Rui Zou 
-* **Email**: `zour2025@mail.sustech.edu.cn`； `vincentz0704@gmail.com`
+* **Email**: `vincentz0704@gmail.com`
 
 
 <!-- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
