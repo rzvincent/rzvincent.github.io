@@ -14,7 +14,9 @@ I am currently a Research Assistant in SUSTech, advised by [Christina Gao](https
 
 ---
 
-Feel free to contact me through `vincentz0704@gmail.com`.
+> **Note:** I prefer to use the name "Vincent Zou" for academic purposes since 2025 while my legal name is "Rui Zou".
+
+> Feel free to contact me through `vincentz0704@gmail.com`.
 
 
 
