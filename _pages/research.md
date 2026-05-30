@@ -10,8 +10,9 @@ author_profile: true
 * **Cosmology**: Evolution of the Universe.
 
 > **Note:** I previously conducted research on **Fast Radio Bursts (FRBs)** as cosmological and physical probes during my M.S.
+> Here is my master thesis 👉 ([Master's Thesis](../assets/cquthesis.pdf))
 
-👉 ([Master's Thesis](../assets/cquthesis.pdf))
+
 
 
 
